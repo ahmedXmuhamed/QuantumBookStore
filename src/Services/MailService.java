@@ -1,4 +1,9 @@
 package Services;
+import Entities.*;
 
-public class MailService {
+public class MailService
+{
+    void sendEBook(EBook book, String email){
+
+    }
 }

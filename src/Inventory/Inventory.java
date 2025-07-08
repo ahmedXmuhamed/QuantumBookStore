@@ -1,6 +1,8 @@
 package Inventory;
-import Entities.*;
-Import Interfaces.*;
+import java.util.ArrayList;
+import java.util.List;
+
+import Interfaces.*;
 
 public class Inventory {
     private List<IBook> books = new ArrayList<>();
